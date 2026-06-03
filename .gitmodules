@@ -1,10 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/avishekb9/avishekb9.r-universe.dev
 	branch = HEAD
 [submodule "ManyIVsNets"]
 	path = ManyIVsNets
-	url = https://github.com/avishekb9/manyivsnets
+	url = https://github.com/avishekb9/ManyIVsNets
 [submodule "contagionchannels"]
 	path = contagionchannels
 	url = https://github.com/avishekb9/contagionchannels
+[submodule "sochcontagion"]
+	path = sochcontagion
+	url = https://github.com/avishekb9/sochcontagion
